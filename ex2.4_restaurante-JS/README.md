@@ -1,5 +1,5 @@
 ## Programa restaurante Quilo ##
- > Status do projeto: em desenvolvimento. 
+ > Status do projeto: finalizado. 
  
  Para rodar esse programa na sua máquina, por favor
  
