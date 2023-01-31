@@ -1,5 +1,5 @@
 ## Programa Farmácia em promoção ##
- > Status do projeto: em andamento. 
+ > Status do projeto: finalizado. 
  
  Para rodar esse programa na sua máquina, por favor
  
